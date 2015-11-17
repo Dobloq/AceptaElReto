@@ -26,7 +26,6 @@ public class CuerdaCometa {
 						precio = coste[i];
 					}
 					casos++;
-					break;
 				}
 			}
 			for (int i = 0; i < cuerda.length - 1; i++) {
