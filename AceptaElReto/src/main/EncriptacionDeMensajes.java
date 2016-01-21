@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class EncriptacionDeMensajes {
 
+	// puede que RTE
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		String a = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";

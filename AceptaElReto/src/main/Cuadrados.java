@@ -7,6 +7,7 @@ public class Cuadrados {
 	private static int[][] c = new int[0][0];
 	private static int CM = 0;
 
+	// no terminado
 	public static void main(String[] args) {
 		int n;
 		Scanner sc = new Scanner(System.in);
